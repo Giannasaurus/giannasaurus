@@ -3,4 +3,5 @@ generalist & archivist
 ---
 
 ### :zap: Web Dev References
-[MDN Web Docs](https://developer.mozilla.org/en-US/) | [Sitepoint](https://www.sitepoint.com/) 
+:sparkles: [MDN Web Docs](https://developer.mozilla.org/en-US/) :sparkles: <br/>
+(my web dev bible :kneeling_woman:)
