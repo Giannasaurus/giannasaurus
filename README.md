@@ -1,6 +1,6 @@
 generalist & archivist
 
-i like to document, archive, and rewrite things
+i like to document, archive, and rewrite from scratch :]
 
 ---
 
