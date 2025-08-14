@@ -1,9 +1,14 @@
-generalist & archivist
+Generalist & Archivist. I like to document, archive, and rewrite stuff from scratch :]
 
-i like to document, archive, and rewrite from scratch :]
 
 ## :zap: Web Dev References
+### Offical Docs
+### Websites
 <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a>
+<a href="https://css-tricks.com/" target="_blank">CSS Tricks</a>
+### YouTube Channels
+<a href="https://m.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a>
+<a href="https://m.youtube.com/@coding2go" target="_blank">Coding2Go</a>
 
 ## :hammer_and_wrench: Tools I Learned and Use
 ### Most relevant
