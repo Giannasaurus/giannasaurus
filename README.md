@@ -2,13 +2,10 @@ generalist & archivist
 
 i like to document, archive, and rewrite from scratch :]
 
----
-
 ## :zap: Web Dev References
-:sparkles: <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> :sparkles: <br/>
-(my web dev bible :kneeling_woman:)
+<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a>
 
-## 🛠 Tools I Learned and Use
+## :hammer_and_wrench: Tools I Learned and Use
 ### Most relevant
 <p align='left'>
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -20,6 +17,7 @@ i like to document, archive, and rewrite from scratch :]
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
+
 ### Others
 <p align='left'>
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
