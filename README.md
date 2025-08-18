@@ -1,17 +1,20 @@
 Generalist & Archivist. I like to document, archive, and rewrite stuff from scratch :]
+I like to create websites so my focus is on Full Stack Web Development. 
 
+<details>
+  <summary>## :bookmark: Web Dev References</summary>
+    ### :scroll: Official Docs
+      <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> |
+      <a href="https://git-scm.com/doc" target="_blank">Git Docs</a>
+    ### :globe_with_meridians:
+      <a href="https://css-tricks.com/" target="_blank">CSS Tricks</a> |
+      <a href="https://mobbin.com/discover/sites/latest" target="_blank">Mobbin</a>
+    ### :video_camera: 
+      <a href="https://m.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a> |
+      <a href="https://m.youtube.com/@coding2go" target="_blank">Coding2Go</a>
+</details>
 
-## :bookmark: Web Dev References
-### :scroll: Official Docs
-<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> |
-<a href="https://git-scm.com/doc" target="_blank">Git Docs</a>
-### :globe_with_meridians:
-<a href="https://css-tricks.com/" target="_blank">CSS Tricks</a> |
-<a href="https://mobbin.com/discover/sites/latest" target="_blank">Mobbin</a>
-### :video_camera: 
-<a href="https://m.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a> |
-<a href="https://m.youtube.com/@coding2go" target="_blank">Coding2Go</a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## :hammer_and_wrench: Tools I Learned and Use
 ### Most relevant
@@ -23,6 +26,7 @@ Generalist & Archivist. I like to document, archive, and rewrite stuff from scra
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
