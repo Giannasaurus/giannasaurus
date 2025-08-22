@@ -14,7 +14,7 @@ I like to create websites so my focus is on Full Stack Web Development. <br>
       <a href="https://m.youtube.com/@coding2go" target="_blank">Coding2Go</a> <br>
 </details> <br>
 
-## :framed_picture: Display shelf
+## :framed_picture: GitHub stats
 <div style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=giannasaurus&show_icons=true&theme=transparent"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannasaurus&layout=compact&theme=transparent"</a>
