@@ -32,5 +32,5 @@ I like to create websites so my focus is on Full Stack Web Development. <br>
 
 ### Others
 <p align='left'>
-  <img src="https://skillicons.dev/icons?i=cs,java,jquery,figma,notion,md,visualstudio,,sublime,replit&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,java,jquery,figma,notion,md,visualstudio,sublime,replit&theme=dark" />
 </p>
