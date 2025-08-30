@@ -8,7 +8,8 @@ I like to create websites so my focus is on Full Stack Web Development. <br>
       <a href="https://git-scm.com/doc" target="_blank">Git Docs</a> <br>
     :globe_with_meridians: <br>
       <a href="https://css-tricks.com/" target="_blank">CSS Tricks</a> |
-      <a href="https://mobbin.com/discover/sites/latest" target="_blank">Mobbin</a> <br>
+      <a href="https://mobbin.com/discover/sites/latest" target="_blank">Mobbin</a> <br> |
+      <a href="https://www.atlassian.com/git" target="_blank">Atlassian</a> <br>
     :video_camera: <br>
       <a href="https://m.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a> |
       <a href="https://m.youtube.com/@coding2go" target="_blank">Coding2Go</a> <br>
