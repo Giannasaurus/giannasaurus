@@ -1,14 +1,14 @@
 Generalist & Archivist. I like to document, archive, and rewrite stuff from scratch :] <br>
 I like to create websites so my focus is on Full Stack Web Development. <br>
 
-<details open>
+<details>
   <summary>:bookmark: Web Dev References</summary>
     :scroll: Official Docs <br>
       <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> |
       <a href="https://git-scm.com/doc" target="_blank">Git Docs</a> <br>
     :globe_with_meridians: <br>
       <a href="https://css-tricks.com/" target="_blank">CSS Tricks</a> |
-      <a href="https://mobbin.com/discover/sites/latest" target="_blank">Mobbin</a> <br> |
+      <a href="https://mobbin.com/discover/sites/latest" target="_blank">Mobbin</a> |
       <a href="https://www.atlassian.com/git" target="_blank">Atlassian</a> <br>
     :video_camera: <br>
       <a href="https://m.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a> |
