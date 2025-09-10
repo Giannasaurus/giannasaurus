@@ -13,7 +13,7 @@ I like to create websites so my focus is on Full Stack Web Development. <br>
     :video_camera: <br>
       <a href="https://m.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a> |
       <a href="https://m.youtube.com/@coding2go" target="_blank">Coding2Go</a> <br>
-</details> <br>
+</details>
 
 ## :framed_picture: GitHub stats
 <div style="display: flex;">
