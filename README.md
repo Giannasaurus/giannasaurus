@@ -1,7 +1,7 @@
-Hello, I'm Gianna 😁
-I'm passionate about being curious about many, many things. I also enjoy documenting and archiving every important piece of learning I acquire.
-My current focus is strengthening my Web Development skills (which very well know is a cooked area of tech, but still...).
-Lastly, I like writing code and being able to write on my own, from scratch, really hits the marrow!
+Hello, I'm Gianna 😁 <br>
+I'm passionate about being curious about many, many things. I also enjoy documenting and archiving every important piece of learning I acquire. <br>
+My current focus is strengthening my Web Development skills (which very well know is a cooked area of tech, but still...). <br>
+Lastly, I like writing code and being able to write on my own, from scratch, really hits the marrow! <br>
 
 <details>
   <summary>:bookmark: References</summary>
