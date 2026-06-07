@@ -15,7 +15,6 @@ I'm Gianna and I love to code
 </details>
 
 ## :hammer_and_wrench: Tools I learned and use
-### Most relevant
 <div align='left'>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,express,mongodb,md,latex,figma,notion,vscode&theme=dark" />
 </p>
